@@ -1,0 +1,19 @@
+#container {
+  display: flex;
+  padding: 100px;
+
+}
+
+#container button {
+  height: 50px;
+  width: 50px;
+  background-color: red;
+}
+
+#number {
+  font-size: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+
+
+}
